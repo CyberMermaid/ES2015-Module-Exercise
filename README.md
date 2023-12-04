@@ -1,4 +1,3 @@
-# ES2015-Module-Exercise
 # ****ES2015 Module Exercise****
 
 This exercise gives you practice with ES2015-style import/export.
